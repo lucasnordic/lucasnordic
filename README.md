@@ -1,15 +1,14 @@
 <div id="header" align="center">
   
-  # Hi there!
+  ### Hi there!
   
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="150"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/lucas-nordgren-8815941b8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
-  <img src="https://komarev.com/ghpvc/?username=lucasnordic&style=flat-square&color=blue" alt="page views" width="144"/> - Since 2023-01-09
+  <img src="https://komarev.com/ghpvc/?username=lucasnordic&style=flat-square&color=blue" alt="page views" width="144"/> <!-- - Since 2023-01-09 -->
 </div>
 
 ## About me
@@ -102,14 +101,17 @@
 
 ---
 <!-- Thatks to https://github.com/anuraghazra/github-readme-stats -->
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasnordic&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnordic&layout=compact)](https://github.com/lucasnordic/github-readme-stats)
+### Statistics
+
+![Lucas GitHub stats](https://github-readme-stats-silk-gamma.vercel.app/api?username=lucasnordic&show_icons=true&count_private=true)
+
+![Top Langs](https://github-readme-stats-silk-gamma.vercel.app/api/top-langs/?username=lucasnordic&layout=compact&count_private=true)
 
 <br/>
 
 <div id="footer">
   
-  # Check out some of my projects below
+  ### Check out some of my projects below
   <img src="https://media.giphy.com/media/fsc7c7TYKulQ4lmmAo/giphy.gif" width="100"/>
 </div>
