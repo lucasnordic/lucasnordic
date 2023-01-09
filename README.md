@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-  # Hi there!
+  # Hi there 👋👋!
   
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="400"/>
 </div>
@@ -109,7 +109,6 @@
 
 <div id="footer">
   
-  ## 👋👋👋
-  
-  <img src="https://media.giphy.com/media/kaBU6pgv0OsPHz2yxy/giphy.gif" width="400"/>
+  # Check out some of my projects below
+  <img src="https://media.giphy.com/media/fsc7c7TYKulQ4lmmAo/giphy.gif" width="100"/>
 </div>
