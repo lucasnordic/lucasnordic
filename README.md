@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-  # Hi there 👋👋!
+  # Hi there!
   
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="400"/>
 </div>
@@ -13,7 +13,7 @@
 </div>
 
 ## About me
-- 💬 My name is Lucas and I'm a Developer, Student, and Designer from Sweden
+- 👋 My name is Lucas and I'm a Developer, Student, and Designer from Sweden
 - 🔭 I’m currently working on my student courses and my bachelor thesis
 - 🌱 I’m currently learning Unity, C#, Javascript and UX
 - 😄 2023 Goals: Do more fullstack projects and learn more technologies for web application development
