@@ -30,8 +30,6 @@
 - [LinkedIn](https://www.linkedin.com/in/lucas-nordgren-8815941b8/)
 <!-- <img align="left" alt="test" width="36px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"> -->
 
----
-
 ## Languages
 
 [<img align="left" alt="test" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433">][js]
@@ -58,13 +56,17 @@
 [<img align="left" alt="test" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">][vsc]
 [<img align="left" alt="test" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png">][vs]
 [<img align="left" alt="test" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png">][ij]
+[<img align="left" alt="test" width="36px" src="https://cdn.iconscout.com/icon/free/png-256/arduino-1-226076.png">][arduino]
+
+<br/>
+<br/>
+
 [<img align="left" alt="test" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png">][git]
 [<img align="left" alt="test" width="36px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">][gh]
 [<img align="left" alt="test" width="36px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png">][gl]
 [<img align="left" alt="test" width="36px" src="https://www.freeiconspng.com/thumbs/command-line-icon/command-line-icon-1.png">][cmd]
 [<img align="left" alt="test" width="36px" src="https://i-ale.org/wp-content/uploads/2019/02/mqtt.png">][mqtt]
 [<img align="left" alt="test" width="36px" src="https://static-00.iconduck.com/assets.00/opencv-icon-414x512-d2gfjzmg.png">][opencv]
-[<img align="left" alt="test" width="36px" src="https://cdn.iconscout.com/icon/free/png-256/arduino-1-226076.png">][arduino]
 [<img align="left" alt="test" width="36px" src="https://preview.redd.it/vtzpl5c9yd181.png?width=512&format=png&auto=webp&s=d0ce01fbd57c089dc06a2cc2c1252a6da7e4658a">][unity]
 [<img align="left" alt="test" width="36px" src="https://cdn.imgbin.com/16/14/13/imgbin-unreal-tournament-unreal-engine-4-game-engine-others-GsrM03gWgUqSBBYnGNmJa7w9s.jpg">][unreal]
 
@@ -85,7 +87,6 @@
 [unity]: https://unity.com/
 [unreal]: https://img.icons8.com/windows/512/unreal-engine.png
 
-<br/>
 <br/>
 
 ## Design
