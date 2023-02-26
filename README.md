@@ -14,9 +14,9 @@
 ## About me
 - 👋 My name is Lucas and I'm a Developer, Student, and Designer from Sweden
 - 🔭 I’m currently working on my student courses and my bachelor thesis
-- 🌱 I’m currently learning Unity, C#, Javascript and UX
+- 🌱 I’m currently learning Unity, C#
 - 😄 2023 Goals: Do more fullstack projects and learn more technologies for web application development
-- ⚡ Fun fact: I also like electronics, embedded, playing guitar/piano, and fresh air
+- ⚡ I like playing guitar, and fresh air
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
