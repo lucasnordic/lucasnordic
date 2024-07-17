@@ -98,8 +98,11 @@
 [maya]: https://www.autodesk.se/products/maya/overview
 
 <br/>
+<br/>
+<br/>
+
+### Check out my projects below
 
 <div id="footer">
-  ### Check out some of my projects below
   <img src="https://media.giphy.com/media/fsc7c7TYKulQ4lmmAo/giphy.gif" width="100"/>
 </div>
