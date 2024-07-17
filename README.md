@@ -97,19 +97,6 @@
 [ps]: https://www.adobe.com/se/products/photoshop.html
 [maya]: https://www.autodesk.se/products/maya/overview
 
-<br/>
-
----
-<!-- Thatks to https://github.com/anuraghazra/github-readme-stats -->
-
-### Statistics
-
-![Lucas GitHub stats](https://github-readme-stats-silk-gamma.vercel.app/api?username=lucasnordic&show_icons=true&count_private=true)
-
-![Top Langs](https://github-readme-stats-silk-gamma.vercel.app/api/top-langs/?username=lucasnordic&layout=compact&count_private=true)
-
-<br/>
-
 <div id="footer">
   
   ### Check out some of my projects below
