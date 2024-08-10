@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-  ### Hi there!
+  ### Hej!
   
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="150"/>
 </div>
@@ -12,16 +12,15 @@
 </div>
 
 ## About me
-- 👋 My name is Lucas and I'm a Developer, Student, and Designer from Sweden
-- 🔭 I’m currently working on my student courses and my bachelor thesis
-- 🌱 I’m currently learning Unity, C#
-- 😄 2023 Goals: Do more fullstack projects and learn more technologies for web application development
-- ⚡ I like playing guitar, and fresh air
+- 👋 My name is Lucas and I'm a Developer, Lifetime Learner, and Designer from Sweden
+- 🔭 I’m currently working on a personal React project
+- 🌱 I’m currently learning React, Javascript, html, css
+- 😄 2024 Goals: Do more fullstack projects and learn more technologies for web application development
+- ⚡ I like fresh air
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 -->
 
 ## Connect with me:
@@ -99,9 +98,8 @@
 
 <br/>
 <br/>
-<br/>
 
-### Check out my projects below
+## Check out my projects below
 
 <div id="footer">
   <img src="https://media.giphy.com/media/fsc7c7TYKulQ4lmmAo/giphy.gif" width="100"/>
