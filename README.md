@@ -2,7 +2,7 @@
 
 <br>
 
-<img align="right" src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="520"/>
+<img align="right" src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="370"/>
 
 <h3 align="left">Connect with me</h3>
 <div id="badges" align="left">
