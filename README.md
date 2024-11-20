@@ -37,8 +37,8 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 <details>
-<summary>
-  <h3>&nbsp;Full Tech Stack 🛠 </h3>
+<summary style="font-size: 1.5em; font-weight: bold">
+  &nbsp;Full Tech Stack 🛠
 </summary>
   
 - 💻 &nbsp;
