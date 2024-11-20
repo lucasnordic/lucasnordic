@@ -38,7 +38,7 @@
 
 <details>
 <summary style="font-size: 1.5em; font-weight: bold">
-  &nbsp;Full Tech Stack 🛠
+  &nbsp;Press here to see some of the tech I'm familiar with 🛠
 </summary>
   
 - 💻 &nbsp;
