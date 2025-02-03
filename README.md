@@ -36,7 +36,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=C%2B%2B)
+![C#](https://img.shields.io/badge/-C-333333?style=flat&logo=C#%2B%2B)
 
 <details>
 <summary style="font-size: 1.5em; font-weight: bold">
