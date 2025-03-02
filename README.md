@@ -23,7 +23,7 @@
 
 - I'm Lucas, and I'm a Developer from Sweden
 - I’m currently doing web and mobile apps
-- 2024 Goals: Do more fullstack!
+- 2025 Goals: Do more bouldering.
 <!-- - ⚡ I like fresh air
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
